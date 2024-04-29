@@ -1,0 +1,20 @@
+{
+  "name": "node-typed-home-assistant",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "update": "node ha-cli.js -o src/ha.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@isham/typed-home-assistant": "npm:@jsr/isham__typed-home-assistant@^0.2.5",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

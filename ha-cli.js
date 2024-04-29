@@ -1,4 +1,4 @@
-import ws from 'ws'
+import ws from "ws";
 
 globalThis.WebSocket = ws;
 

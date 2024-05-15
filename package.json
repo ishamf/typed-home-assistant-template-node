@@ -13,7 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@isham/typed-home-assistant": "npm:@jsr/isham__typed-home-assistant@^0.2.6",
+    "@isham/typed-home-assistant": "npm:@jsr/isham__typed-home-assistant@^1",
     "ws": "^8.17.0"
   },
   "devDependencies": {
